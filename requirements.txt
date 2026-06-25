@@ -1,0 +1,9 @@
+Flask
+Flask-Mail
+qrcode[pil]
+python-dotenv
+apscheduler
+python-dateutil
+gunicorn
+sib-api-v3-sdk
+pytz
